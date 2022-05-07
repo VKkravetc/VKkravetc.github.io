@@ -85,8 +85,12 @@
         <h6>Какая-то компания</h6>
         <h3>WEBSITE:</h3>
         <h6>http://google.com</h6>
+       
+        <form action="http://google.com">
         
        <input type="submit" value="VISIT LIVE SITE">
+           
+        </form>
         
         <h3>Название проекта</h3>
         
